@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainClass
+comment1.params=x\ y
+comment1.target=MainClass(double,\ double)
+comment2.params=
+comment2.target=double\ getAverage()
+comment3.params=x\ y
+comment3.target=void\ setNum(double,\ double)
+numComments=4
